@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">The Farmers App</string>
+    <string name="blackSpot">Black Spot Disease
+    \nBlack spot  is the most important fungal disease of roses worldwide. The initial symptoms start as feathery-edged, black spots on lower leaves. As these spots enlarge, the leaves turn yellow and drop off. The disease continues up the stems until the entire plant becomes defoliated.
+    \nWhat is the cause of blacks-pot?
+    \nBlack spot may develop in fruit when they begin to ripen and in leaves when conditions favour disease development. The main source of infection is spore masses produced on old, un decomposed leaves and shrivelled fruit. The spores are spread by rain splash, by overhead irrigation and on the hands of pickers.
+    \n Symptoms of black spot disease include small, circular black spots on the leaves that may merge to form larger, irregular-shaped spots. The spots may also have a yellowish halo around them. As the disease progresses, the leaves may turn yellow and drop prematurely, weakening the plant and reducing its ability to produce fruit or flowers.
+
+\nBlack spot disease is spread by spores that are produced by the fungus and carried by wind and water. The spores can survive on plant debris and in the soil, making it difficult to control the disease once it becomes established in an area.
+
+\nTo prevent and control black spot disease, it is important to practice good plant hygiene, such as removing infected leaves and debris from the garden and avoiding overcrowding of plants. Fungicides may also be used to control the disease, but they should be used judiciously and according to label instructions to avoid harming beneficial insects and pollinators.
+
+\nIn addition to chemical control measures, cultural practices such as planting disease-resistant varieties, providing proper drainage and air circulation, and avoiding overhead watering can also help to prevent and control black spot disease in crops. Regular monitoring and early detection of the disease can also help to prevent its spread and minimize its impact on crop yields.
+
+    </string>
+    <string name="blight">
+        \nBlight is a type of plant disease that affects many crops, including tomatoes, potatoes, peppers, and eggplants. The disease is caused by several types of fungi-like organisms, including Phytophthora infestans and Alternaria solani.
+
+\nSymptoms of blight can vary depending on the type of crop and the stage of the disease, but commonly include leaf spots, stem lesions, and fruit rot. Infected leaves may also curl, wilt, or turn yellow or brown, and infected fruit may become discolored and soft.
+
+\nBlight can be spread by wind, water, and infected plant material, and can be more common in wet or humid weather conditions. To prevent and control blight, it is important to practice good plant hygiene, such as removing infected leaves and debris from the garden, providing adequate air circulation, and avoiding overhead watering. Fungicides may also be used to control the disease, but they should be used judiciously and according to label instructions to avoid harming beneficial insects and pollinators.
+
+\nCultural practices such as crop rotation, choosing disease-resistant varieties, and planting at the appropriate time can also help to prevent and control blight in crops. Regular monitoring and early detection of the disease can also help to prevent its spread and minimize its impact on crop yields.
+
+    </string>
+    <string name="canker">
+     \n Canker is a type of plant disease that affects many crops, including fruit trees, such as apples, pears, and peaches, as well as grape vines, roses, and other ornamental plants. Canker is typically caused by fungi or bacteria that infect the bark, wood, and other tissues of the plant.
+
+\nSymptoms of canker include sunken, discolored areas on the bark of the plant, which may be accompanied by oozing sap or gum. As the disease progresses, affected branches may become weakened or die, leading to reduced yields or plant death.
+
+\nCanker can be spread by insects, tools, and other means of plant-to-plant contact, and can be more common in humid or wet weather conditions. To prevent and control canker, it is important to practice good plant hygiene, such as removing infected branches and debris from the garden, pruning plants to improve air circulation, and avoiding overhead watering. Fungicides or bactericides may also be used to control the disease, but they should be used judiciously and according to label instructions.
+
+\nCultural practices such as choosing disease-resistant varieties, planting at the appropriate time, and maintaining healthy plants can also help to prevent and control canker in crops. Regular monitoring and early detection of the disease can also help to prevent its spread and minimize its impact on crop yields.
+    </string>
+    <string name="downymildew">
+\nDowny mildew is a fungal disease that affects many types of crops, including grapes, cucumbers, lettuce, onions, and many ornamental plants. The disease is caused by the fungus-like organism in the family Peronosporaceae.
+
+    \nSymptoms of downy mildew include yellow or brown spots on the leaves, often with a downy appearance on the underside of the leaves. Infected leaves may also curl, wilt, or die prematurely, reducing the yield and quality of the crop. The disease can spread quickly in cool, wet weather conditions.
+
+   \n To prevent and control downy mildew, it is important to practice good plant hygiene, such as removing infected leaves and debris from the garden, providing adequate air circulation, and avoiding overhead watering. Fungicides may also be used to control the disease, but they should be used judiciously and according to label instructions to avoid harming beneficial insects and pollinators.
+
+    \nCultural practices such as choosing disease-resistant varieties, planting crops at the appropriate time, and rotating crops can also help to prevent and control downy mildew in crops. Regular monitoring and early detection of the disease can also help to prevent its spread and minimize its impact on crop yields.
+    </string>
+    <string name="otherleaf">
+    \nThere are many diseases that can affect the leaves of various types of plants. Some common leaf diseases include:
+
+\n1.Powdery mildew: A fungal disease that appears as a white or grayish powdery coating on the leaves. It can affect many types of plants, including roses, squash, and grapes.
+
+\n2.Downy mildew: A fungal disease that causes yellow or brown spots on the leaves, often with a downy appearance on the underside of the leaves. It can affect many types of plants, including grapes, cucumbers, and lettuce.
+
+\n3.Rust: A fungal disease that appears as orange, yellow, or brown spots on the leaves. It can affect many types of plants, including roses, beans, and tomatoes.
+
+\n4.Anthracnose : A fungal disease that causes dark, sunken spots on the leaves. It can affect many types of plants, including tomatoes, peppers, and beans.
+
+\n5.Leaf spot: A bacterial or fungal disease that causes circular or irregular-shaped spots on the leaves. It can affect many types of plants, including tomatoes, peppers, and lettuce.
+
+\n6.Bacterial leaf blight: A bacterial disease that causes water-soaked spots on the leaves, which eventually turn brown and dry out. It can affect many types of plants, including rice, corn, and soybeans.
+
+\nPrevention and control of leaf diseases involves good plant hygiene, such as removing infected leaves and debris from the garden, providing adequate air circulation, and avoiding overhead watering. Fungicides and bactericides may also be used to control some leaf diseases, but they should be used judiciously and according to label instructions to avoid harming beneficial insects and pollinators. Choosing disease-resistant varieties and planting crops at the appropriate time can also help to prevent and control leaf diseases.
+    </string>
+    <string name="powderymildew">
+    \nPowdery mildew is a fungal disease that affects many types of crops, including grapes, cucumbers, pumpkins, squash, and many ornamental plants. The disease is caused by several species of fungi in the Erysiphaceae family.
+
+\nSymptoms of powdery mildew include a white or grayish powdery coating on the leaves, stems, flowers, and fruit of affected plants. Infected leaves may also curl, wilt, or turn yellow or brown, and infected fruit may be deformed or have a reduced yield.
+
+\nPowdery mildew is most common in warm, humid weather conditions, but can also occur in cooler temperatures with high humidity. The disease can be spread by wind and by the movement of infected plant material, and can also overwinter in the soil.
+
+\nTo prevent and control powdery mildew, it is important to practice good plant hygiene, such as removing infected leaves and debris from the garden, providing adequate air circulation, and avoiding overhead watering. Fungicides may also be used to control the disease, but they should be used judiciously and according to label instructions to avoid harming beneficial insects and pollinators.
+
+\nCultural practices such as choosing disease-resistant varieties, pruning plants to increase air circulation, and planting crops at the appropriate time can also help to prevent and control powdery mildew in crops. Regular monitoring and early detection of the disease can also help to prevent its spread and minimize its impact on crop yields.
+    </string>
+    <string name="organic">
+ \n Organic farming in India has the potential to contribute significantly to the nation vision of a healthy and sustainable future. Organic farming practices help to improve soil health, reduce environmental pollution, and produce healthy and nutritious food that is free from harmful chemicals and synthetic inputs.
+
+\nOrganic farming can also help to promote rural development and alleviate poverty in India, as it provides a viable and sustainable livelihood option for small and marginal farmers. By adopting organic farming practices, farmers can reduce their dependence on external inputs, which can help to lower their input costs and increase their income through the sale of organic products at premium prices.
+
+\nIn addition to the environmental and economic benefits, organic farming can also have positive impacts on public health. Studies have shown that organic food products are generally healthier than conventionally grown food, as they contain higher levels of essential nutrients and lower levels of harmful chemicals and pesticides. By promoting organic farming practices, India can help to reduce the incidence of diet-related diseases and improve the overall health of its population.
+
+\nTo realize the full potential of organic farming in India, there is a need for government support, research and development, and market infrastructure. The government can provide policy support, financial incentives, and technical assistance to farmers to help them adopt organic farming practices. Research institutions can conduct research and development activities to develop new technologies and best practices for organic farming. And market infrastructure can be developed to help farmers access markets and get fair prices for their organic products.
+
+\nIn conclusion, organic farming in India is a vision towards a healthy nation, as it has the potential to improve the health of the environment, the economy, and the people. With the right support and infrastructure, India can become a leader in organic farming and pave the way for a healthier and more sustainable future.
+    </string>
+    <string name="biofer">
+        \nThe use of bio-fertilizers and chemical fertilizers in agriculture can have both positive and negative impacts, depending on how they are used and managed.
+
+\nBio-fertilizers are eco-friendly and sustainable alternatives to chemical fertilizers, as they help to improve soil health, increase crop yields, and reduce environmental pollution. They also help to reduce the use of chemical fertilizers, which can have negative impacts on soil health, water quality, and biodiversity.
+
+\nOn the other hand, chemical fertilizers are highly effective in providing crops with essential nutrients, such as nitrogen, phosphorus, and potassium, which are essential for plant growth and development. They can help to increase crop yields and improve the nutritional quality of food.
+
+\nThe ideal approach to fertilizer management is to use a combination of both bio-fertilizers and chemical fertilizers, in a way that maximizes their benefits while minimizing their negative impacts. This approach, known as integrated nutrient management, involves using bio-fertilizers to enhance soil health and reduce the use of chemical fertilizers, while using chemical fertilizers to provide crops with essential nutrients.
+
+\nIntegrated nutrient management has several benefits, such as:
+
+\n 1.Improving soil health and fertility, which can lead to higher crop yields and better quality food
+\n 2.Reducing the environmental impact of agriculture by reducing the use of chemical fertilizers and promoting sustainable farming practices
+\n 3.Providing farmers with cost-effective and sustainable solutions for crop management
+\n 4.Promoting the use of eco-friendly and sustainable farming practices that can help to mitigate the negative impacts of climate change.
+\n In conclusion, the importance of bio-fertilizers and chemical fertilizers in agriculture lies in their complementary use, where both can be used in a balanced and integrated way to promote sustainable farming practices and improve crop productivity while protecting the environment and human health.
+
+    </string>
+    <string name="climate">
+     \nClimate change and agriculture practices can indeed have a significant impact on insect populations. The loss of insect populations is a serious concern, as insects play a crucial role in pollination, pest control, nutrient cycling, and ecosystem functioning.
+
+\nClimate change can affect insect populations in several ways, such as changes in temperature, precipitation patterns, and extreme weather events. These changes can alter the timing of insect life cycles, migration patterns, and distribution ranges, which can affect their abundance and survival.
+
+\nSimilarly, agriculture practices can also have a significant impact on insect populations. The use of pesticides, herbicides, and other agrochemicals can have negative impacts on non-target species, including insects. Habitat loss and fragmentation due to land-use change, such as deforestation and urbanization, can also affect insect populations by reducing the availability of suitable habitat and food resources.
+
+\nA recent study published in the journal Nature Climate Change found that the combined impact of climate change and agriculture practices could halve insect populations by the end of the century. The study used a modeling approach to simulate the impacts of climate change and land-use change on insect populations globally.
+
+T\nhe study found that the use of pesticides and land-use change would have the most significant impacts on insect populations, while climate change would exacerbate these impacts. The study also found that insects in temperate regions, such as Europe and North America, would be more affected than those in tropical regions, such as South America and Africa.
+
+\nIn conclusion, the loss of insect populations due to climate change and agriculture practices is a significant concern, as it can have far-reaching impacts on ecosystem functioning and human well-being. Addressing this issue requires a concerted effort to reduce greenhouse gas emissions, promote sustainable agriculture practices, and protect insect habitats and biodiversity.
+
+
+
+
+        </string>
+    <string name="drought">
+\nDrought is a natural disaster that occurs when there is a prolonged period of below-average precipitation, resulting in water scarcity and a significant impact on the environment, agriculture, economics, and public health.
+
+\nImpact on Agriculture:
+\nDrought has a severe impact on agriculture, as it affects crop productivity and food security. It can lead to soil degradation, loss of vegetation, and reduced crop yields, which can have negative impacts on farmers\' livelihoods and rural economies. In addition, drought can cause food prices to rise, which can have a significant impact on vulnerable populations, such as low-income households and those living in food-insecure areas.
+
+\nImpact on Environment:
+\nDrought can also have a significant impact on the environment, particularly on ecosystems that rely on water availability. It can lead to a loss of biodiversity, as some species may not be able to adapt to the changes in water availability. In addition, drought can lead to water scarcity and a decline in water quality, which can have negative impacts on aquatic ecosystems.
+
+\nImpact on Economics:
+\nDrought can have a significant impact on local and national economies. It can lead to reduced economic growth, as the agriculture sector, which is a major contributor to many economies, is affected. In addition, drought can lead to increased government spending on disaster relief, as well as higher food prices, which can have a significant impact on household budgets.
+
+\nImpact on Health:
+\nDrought can also have a significant impact on public health, particularly in developing countries where access to clean water is limited. It can lead to water scarcity and poor sanitation, which can increase the risk of waterborne diseases, such as cholera and typhoid. In addition, drought can lead to food insecurity, which can have negative impacts on nutritional status, particularly in vulnerable populations, such as children and pregnant women.
+
+\nIn conclusion, drought is a natural disaster that can have significant impacts on the environment, agriculture, economics, and public health. Addressing the impacts of drought requires a concerted effort to promote sustainable water management practices, reduce greenhouse gas emissions, and develop early warning systems and disaster preparedness plans to minimize the impacts of drought on vulnerable populations.
+
+    </string>
+    <string name="vertical">
+\nVertical farming is an innovative approach to agriculture that involves growing crops in vertically stacked layers, using artificial lighting, controlled temperature, and nutrient solutions instead of soil. This method of farming is gaining popularity worldwide due to its potential to increase crop yields, reduce water and land use, and improve food security.
+
+\nOne of the primary advantages of vertical farming is its ability to produce high yields of crops in a small space. This is possible because crops are grown in vertically stacked layers, using advanced hydroponic systems that provide a controlled environment for plant growth. In addition, vertical farming can be done indoors, making it possible to grow crops year-round, regardless of weather conditions.
+
+\nAnother advantage of vertical farming is its potential to conserve water and reduce the environmental impact of agriculture. Vertical farming systems use up to 70% less water than traditional agriculture, as water is recirculated through the system. In addition, vertical farming can reduce the need for pesticides and herbicides, as the controlled environment helps to minimize pest infestations and diseases.
+
+\nVertical farming also has the potential to improve food security by enabling urban and suburban areas to grow fresh produce locally, reducing the need for long-distance transportation of food. This can also help to reduce greenhouse gas emissions associated with food transportation, making vertical farming an environmentally sustainable option.
+
+\nHowever, there are also some challenges associated with vertical farming, including high upfront costs, energy requirements for artificial lighting and temperature control, and the need for technical expertise to operate the systems. Additionally, vertical farming is not suitable for all types of crops, as some plants require more space and sunlight than others.
+
+\nIn conclusion, vertical farming is an innovative approach to agriculture that has the potential to revolutionize the way we grow food. With its ability to increase crop yields, conserve water, and improve food security, vertical farming is a promising solution for meeting the growing demand for food in a sustainable and environmentally friendly way. However, more research and investment are needed to overcome the challenges associated with this technology and make it more accessible to farmers and consumers.
+         </string>
+
+    <string name="bulleted_list"><b><big>Schemes provided for farmers </big></b>
+        \n <li>Pradhan Mantri Fasal Bima Yojana </li>
+        \n <li>Weather Based Crop Insurance Scheme </li>
+        \n <li>Coconut Palm Insurance Scheme </li>
+        \n <li>Unified Package Insurance Scheme as pilot in notified districts. </li>
+        \n <li>Pradhan Mantri Krishi Sinchai Yojana</li>
+
+    </string>
+    <string name="PMFBY"><b><big>Pradhan Mantri Fasal Bima Yojana </big></b>
+        \nUnder the scheme, farmers pay a nominal premium, while the government provides the rest of the premium as subsidy. The scheme covers crops grown during Kharif and Rabi seasons as well as horticultural and commercial crops. The insurance coverage is available to all farmers, including sharecroppers and tenant farmers.
+
+\nThe PMFBY scheme uses technology to assess crop loss and facilitate speedy compensation to farmers. The scheme also aims to encourage the use of modern agricultural practices and techniques to reduce the risk of crop failure.
+
+\nThe main objectives of PMFBY include:
+
+\n1.Providing financial support to farmers in case of crop failure due to natural calamities, pests and diseases.
+\n2.Encouraging farmers to adopt modern agricultural practices and techniques.
+\n3.Ensuring timely and accurate payment of insurance claims to farmers.
+\n4.Increasing the coverage of crop insurance in the country.
+\nOverall, the PMFBY scheme aims to provide a safety net to farmers and protect them against financial losses due to crop failure.
+
+    </string>
+    <string name="WBCIS"><b><big>Weather Based Crop Insurance Scheme</big></b>
+        \nUnder the WBCIS scheme, the insurance premium is calculated based on the weather parameters that are likely to affect crop yields, such as rainfall, temperature, humidity, and wind speed. The scheme covers crops grown during Kharif and Rabi seasons as well as horticultural crops. The insurance coverage is available to all farmers, including sharecroppers and tenant farmers.
+
+\nThe scheme uses weather data collected from automatic weather stations and other sources to assess crop loss and facilitate speedy compensation to farmers. The scheme also aims to encourage the use of modern agricultural practices and techniques to reduce the risk of crop failure due to adverse weather conditions.
+
+\nThe main objectives of WBCIS include:
+
+\n1.Providing financial support to farmers in case of crop loss or damage due to adverse weather conditions.
+\n2.Encouraging farmers to adopt modern agricultural practices and techniques.
+\n3.Ensuring timely and accurate payment of insurance claims to farmers.
+\n4.Increasing the coverage of crop insurance in the country.
+\nOverall, the WBCIS scheme aims to provide a safety net to farmers and protect them against financial losses due to adverse weather conditions. The scheme is a step towards achieving the goal of increasing farmers  income and ensuring food security in the country.
+    </string>
+    <string name="CPIS"><b><big>Coconut Palm Insurance Scheme</big></b>
+        \nThe Coconut Palm Insurance Scheme is a crop insurance scheme launched by the Government of India to provide protection to coconut farmers against losses due to natural calamities like cyclones, storms, floods, pest and diseases, fire, lightning, etc. The scheme is implemented by the Coconut Development Board , a statutory body under the Ministry of Agriculture and Farmers Welfare, Government of India.
+
+\nUnder this scheme, coconut farmers can insure their palms against any risk of loss or damage to their coconut palms. The insurance coverage is available for both mature and immature palms. The premium for the insurance scheme is subsidized by the government to make it affordable for farmers.
+
+\nThe Coconut Palm Insurance Scheme covers the following risks:
+
+\n1.Natural calamities such as cyclones, storms, floods, pests and diseases, fire, lightning, etc.
+\n2.Mortality of coconut palms due to any reason, including age-related issues.
+\nThe main objective of the Coconut Palm Insurance Scheme is to provide protection to coconut farmers against losses due to natural calamities and other risks. This scheme helps to provide financial support to farmers in case of crop loss and protects their livelihoods. The scheme also helps to encourage coconut cultivation and promotes sustainable agriculture practices in the country.
+    </string>
+    <string name="UPIS"><b><big>Unified Package Insurance Scheme </big></b>
+        The Unified Package Insurance Scheme  is a pilot crop insurance scheme launched by the Government of India in select notified districts. The scheme is designed to provide comprehensive insurance coverage to farmers against various risks and uncertainties in crop production.
+
+\nUnder this scheme, farmers can avail of a package of insurance coverages, which includes:
+
+\n1.Crop insurance against losses due to natural calamities like floods, droughts, cyclones, pests, and diseases.
+\n2.Personal accident insurance cover for the farmer and his family members.
+\n3.Asset insurance cover for farm equipment and other assets.
+\nThe UPIS scheme is implemented by the Agricultural Insurance Company of India  in collaboration with state governments and district administrations. The premium for the insurance coverages is subsidized by the government to make it affordable for farmers.
+
+\nThe main objective of the UPIS scheme is to provide comprehensive insurance coverage to farmers against various risks and uncertainties in crop production. The scheme aims to encourage farmers to adopt modern agricultural practices and techniques and ensure food security in the country.
+
+\nOverall, the UPIS scheme is a step towards achieving the goal of increasing farmers  income and promoting sustainable agriculture practices in the country. The pilot scheme will help to evaluate the effectiveness of the scheme and make necessary modifications before rolling out the scheme nationwide.
+    </string>
+    <string name="PMKSY"><b><big>Pradhan Mantri Krishi Sinchai Yojana</big></b>
+        \nThe scheme aims to achieve convergence of investments in irrigation at the field level, expand cultivable area under assured irrigation, and improve on-farm water use efficiency to reduce wastage of water.
+
+\nThe Pradhan Mantri Krishi Sinchai Yojana has three components:
+
+\nAccelerated Irrigation Benefit Programme : This component aims to provide financial assistance to states to accelerate the completion of ongoing irrigation projects.
+
+\n1.Har Khet Ko Pani : This component focuses on creating new water sources, repairing and restoring traditional water storage systems, and supporting micro-irrigation through the use of drip and sprinkler systems.
+
+\n2.Per Drop More Crop : This component aims to promote water saving technologies, precision irrigation, and other measures to improve water use efficiency in agriculture.
+
+\n3.This is being implemented by the Ministry of Agriculture and Farmers Welfare, Government of India, and the scheme is being monitored at both the national and state levels. The scheme provides financial assistance to states for various activities related to water management, including creation of water sources, distribution networks, and water-saving technologies.
+
+\nThe main objective  is to enhance water use efficiency in agriculture and achieve the goal of "more crop per drop". The scheme is expected to benefit farmers across the country and improve the productivity and profitability of agriculture.
+    </string>
+    </resources>
+

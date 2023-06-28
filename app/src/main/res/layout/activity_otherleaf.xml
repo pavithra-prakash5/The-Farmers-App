@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherleafActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/otherLeafTitle"
+                android:text="Other Leaf Disease"
+                android:textSize="36sp"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:textColor="@color/green_700"
+                android:layout_centerHorizontal="true"/>
+
+            <ImageView
+                android:id="@+id/otherLeafImg"
+                android:layout_width="500dp"
+                android:layout_height="400dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@id/otherLeafTitle"
+                android:src="@drawable/other_leaf" />
+            <TextView
+                android:layout_width="660dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/otherLeafDesc"
+                android:text="@string/otherleaf"
+                android:justificationMode="inter_word"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@color/green_700"
+                android:layout_marginBottom="150dp"
+                android:textSize="20sp"
+                android:padding="10dp"
+                android:textColor="@color/white"
+                android:layout_marginTop="490dp"
+                android:layout_gravity="center"
+                android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+    </ScrollView>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

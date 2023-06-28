@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BlackspotActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/powderyMildewTitle"
+                android:text="Powdery Mildew Disease"
+                android:textSize="30sp"
+                android:layout_marginTop="40dp"
+                android:layout_gravity="center"
+                android:textColor="@color/green_700"
+                android:layout_centerHorizontal="true"/>
+
+            <ImageView
+                android:id="@+id/powderyMildewImg"
+                android:layout_width="500dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@id/powderyMildewTitle"
+                android:src="@drawable/powdery_mildew" />
+            <TextView
+                android:layout_width="660dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/powderymildewDesc"
+                android:text="@string/powderymildew"
+                android:textSize="20sp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="150dp"
+                android:layout_marginTop="400dp"
+                android:layout_gravity="center"
+                android:background="@color/green_200"
+                android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+    </ScrollView>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

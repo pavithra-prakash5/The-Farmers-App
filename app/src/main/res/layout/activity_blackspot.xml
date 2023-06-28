@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BlackspotActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/blackspotTitle"
+        android:text="Black Spot Disease"
+        android:textSize="36sp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:textColor="@color/green_700"
+        android:layout_centerHorizontal="true"/>
+
+        <ImageView
+            android:id="@+id/blackspotImg"
+            android:layout_width="450dp"
+            android:layout_height="450dp"
+            android:layout_below="@id/blackspotTitle"
+            android:src="@drawable/black_spot" />
+
+        <TextView
+            android:id="@+id/blackspotDesc"
+            android:layout_width="660dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="610dp"
+            android:background="@color/yellow_500"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="150dp"
+            android:padding="10dp"
+            android:justificationMode="inter_word"
+            android:text="@string/blackSpot"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    </ScrollView>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

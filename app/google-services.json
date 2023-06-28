@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62621478791",
+    "project_id": "farmpk-e904c",
+    "storage_bucket": "farmpk-e904c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62621478791:android:97915d6a319ba3dc3ead22",
+        "android_client_info": {
+          "package_name": "com.example.farmpk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62621478791-0fj6af42tj4clhhkjhg886vlnmsapmfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaro1DEQtol_alZSwCMR7n0DmOtEeeDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62621478791-0fj6af42tj4clhhkjhg886vlnmsapmfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
